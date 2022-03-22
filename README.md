@@ -1,2 +1,0 @@
-# DvoraData
-Object persistence server
